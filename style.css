@@ -1,3 +1,9 @@
+
+body{
+    background-image: url("./../images/Background.jpg")
+}
+
+
 .bar-adjustments{
     background-color:#ffffff; 
     border-bottom: 1px solid #cccccc; 
@@ -48,6 +54,13 @@
 }
 
 .main-content{
-    height: 100px;
-    background-color: red;
+    background-color: #ffffff;
+}
+
+.lower-header{
+    color: #4aaaa5;
+    padding: 1rem;
+    position: absolute;
+    top: 0px;
+    font-weight: bold;
 }
