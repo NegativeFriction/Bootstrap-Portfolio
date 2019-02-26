@@ -55,6 +55,7 @@ body{
 
 .main-content{
     background-color: #ffffff;
+    height: auto;
 }
 
 .lower-header{
@@ -63,4 +64,14 @@ body{
     position: absolute;
     top: 0px;
     font-weight: bold;
+    background-color: #ffffff;
+}
+
+.gray-line{
+    height: 3px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 30px;
+    background-color: lightgray;
+    opacity: 0.5;
 }
