@@ -95,3 +95,15 @@ body{
     line-height: 100px;
     margin: auto;
 }
+
+@media screen and (max-width: 768px){
+    .link-text{
+        margin-top: 0px;
+        color: black;
+        background-color: white;
+        /* padding: 3rem; */
+        border: 1px solid black;
+        z-index: 3;
+        opacity: 0.99999;
+    }
+}
