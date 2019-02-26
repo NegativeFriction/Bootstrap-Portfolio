@@ -75,3 +75,23 @@ body{
     background-color: lightgray;
     opacity: 0.5;
 }
+
+.blueFooterBox{
+    height: 10px;
+    background-color: #4aaaaf;
+    text-align: center;
+    color: white;
+    vertical-align: bottom;
+    line-height: 100px;
+    margin: auto;
+}
+
+.grayFooterBox{
+    height: 80px;
+    background-color: darkgray;
+    text-align: center;
+    color: white;
+    vertical-align: bottom;
+    line-height: 100px;
+    margin: auto;
+}
