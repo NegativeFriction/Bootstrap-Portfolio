@@ -96,14 +96,14 @@ body{
     margin: auto;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 991px){
     .link-text{
-        margin-top: 0px;
+        margin: 0px;
         color: black;
         background-color: white;
         /* padding: 3rem; */
         border: 1px solid black;
-        z-index: 3;
-        opacity: 0.99999;
+        /* z-index: 3;
+        opacity: 0.99999; */
     }
 }
